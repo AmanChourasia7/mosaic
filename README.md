@@ -5,9 +5,7 @@
   </picture>
 </p>
 
-MOSAIC is a common Python workflow for comparing SciML/PDE solvers.
-
-The workspace combines:
+MOSAIC is a common Python workflow for comparing SciML/PDE solvers. The workspace combines:
 
 - single-interface solver execution -- different numerical, JAX-based, and HPC solvers can be plugged in
 - common solver interfaces -- run different PDE solvers without rewriting the surrounding analysis pipeline
