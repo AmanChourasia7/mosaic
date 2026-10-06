@@ -8,7 +8,7 @@
 MOSAIC is a common Python workflow for comparing SciML/PDE solvers.
 The workspace combines:
 
-- single-interface solver execution -- different numerical, neural network, JAX, and HPC solvers can be plugged
+- single-interface solver execution -- different numerical, JAX-based, and HPC solvers can be plugged
 - common solver interfaces -- run different PDE solvers without rewriting the surrounding analysis pipeline
 - standardized metrics -- compare accuracy, convergence, stability, runtime, and scaling consistently
 - automated result generation -- produce plots, tables, and reports from the same benchmark configuration
